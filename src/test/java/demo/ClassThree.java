@@ -5,5 +5,7 @@ public class ClassThree{
     System.out.println("New class created");
     
     System.out.println("Created by eclipse application and some changes");
+    
+    System.out.println("New line added");
   }
 }
