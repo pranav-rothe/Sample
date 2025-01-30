@@ -6,6 +6,8 @@ public class Branch01 {
 		
 		System.out.println("New line for login Module branch.");
 
+		System.out.println("new line added");
+
 	}
 
 }
